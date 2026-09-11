@@ -8,7 +8,7 @@ authors = [{name = "Simon Willison"}]
 license = "Apache-2.0"
 license-files = ["LICENSE"]
 dependencies = [
-    "sqlite-utils>=2.7.2",
+    "sqlite-utils>4",
     "requests",
     "PyYAML",
 ]
